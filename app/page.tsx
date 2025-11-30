@@ -251,21 +251,21 @@ export default function Home() {
               className={`flex items-center justify-center gap-[40px] mt-8 ${isMounted ? 'animate-fadeInUp' : 'opacity-0'}`}
             >
               <Image 
-                src="/images/polygon.png" 
+                src="/images/Polygon.png" 
                 alt="Polygon" 
                 width={45} 
                 height={45}
                 className="opacity-70 hover:opacity-100 transition-opacity duration-300"
               />
               <Image 
-                src="/images/metamask.png" 
+                src="/images/MetaMask.png" 
                 alt="MetaMask" 
                 width={45} 
                 height={45}
                 className="opacity-70 hover:opacity-100 transition-opacity duration-300"
               />
               <Image 
-                src="/images/walletconnect.png" 
+                src="/images/WalletConnect.png" 
                 alt="WalletConnect" 
                 width={45} 
                 height={45}
