@@ -548,6 +548,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Authors
 
 - **Anindha Biswas** - [@anindhabiswas25](https://github.com/anindhabiswas25)
+- **Samya Deb Biswas** - [@SamyaDeb](https://github.com/SamyaDeb)
+- **Akash Biswas** - [@saxux2](https://github.com/saxux2)
 
 ---
 
