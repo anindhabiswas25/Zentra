@@ -272,7 +272,9 @@ export default function UserPage() {
         </div>
 
         {/* Loan History */}
-        <LoanHistory loanIds={loanIds} userAddress={address} />
+        <div className="mb-[100px]">
+          <LoanHistory loanIds={loanIds} userAddress={address} />
+        </div>
 
       </main>
       </div>

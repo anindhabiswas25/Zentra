@@ -303,7 +303,9 @@ export default function AdminPage() {
         </div>
 
         {/* All Loans Table */}
-        <AllLoansTable loanIds={loanIds} />
+        <div className="mb-[100px]">
+          <AllLoansTable loanIds={loanIds} />
+        </div>
 
       </main>
       </div>
